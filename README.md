@@ -78,9 +78,9 @@ We value the time and effort you put into contributing, and we look forward to r
 
 ## 🔑 OWNER 
 
-`Primary Owner`- Ketan Sharma </br>
-`Secondary Owner`-Khushi </br>
-`Teritary Owner`-Keshav Bareja </br>
+`Primary Owner`- Ketan Sharma </br> </br>
+`Secondary Owner`-Khushi </br> </br>
+`Teritary Owner`-Keshav Bareja </br> </br>
 
 ## 🎉 Special Announcement
 
