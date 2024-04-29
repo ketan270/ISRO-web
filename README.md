@@ -1,14 +1,16 @@
-<h1 align=left> ISRO-Web 🧑🏽‍🚀 </h1>
-<h3> Welcome 👋 </h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&random=false&width=600&height=100&lines=ISRO+WEBSITE+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%9A%80" alt="Typing SVG" /></a>
+<h1>
+ Welcome 👋
+  </h1>
+  
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dakshsinghrathore%2FISRO-web%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dakshsinghrathore/ISRO-web)
-![GitHub Repo stars](https://img.shields.io/github/stars/dakshsinghrathore/ISRO-web)
-![GitHub contributors](https://img.shields.io/github/contributors/dakshsinghrathore/ISRO-web)
-![GitHub last commit](https://img.shields.io/github/last-commit/dakshsinghrathore/ISRO-web)
-![GitHub repo size](https://img.shields.io/github/repo-size/dakshsinghrathore/ISRO-web)
+![GitHub forks](https://img.shields.io/github/forks/Ketan2120/ISRO-web)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ketan2120/ISRO-web)
+![GitHub contributors](https://img.shields.io/github/contributors/Ketan2120/ISRO-web)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ketan2120/ISRO-web)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ketan2120/ISRO-web)
 
 ![Github](https://img.shields.io/github/license/dakshsinghrathore/ISRO-web)
 ![GitHub issues](https://img.shields.io/github/issues/dakshsinghrathore/ISRO-web)
@@ -39,7 +41,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 > **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [code of conduct](/CODE_OF_CONDUCT.md).
 
-- Go through the [CONTRIBUTING.md](https://github.com/ketan270/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
+- Go through the [CONTRIBUTING.md](https://github.com/dakshsinghrathore/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
 - Do check out the [project issue tracker](https://github.com/priyankarpal/ProjectsHut/issues) section.
 
 ## 🤝 Our Contributors
@@ -47,11 +49,11 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 
 <div>
-  <a href="https://github.com/dakshsinghrathore/ISRO-web/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ketan270/ISRO-web" />
+  <a href="https://github.com/Ketan2120/ISRO-web/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Ketan2120/ISRO-web" />
   </a>
 </div>
-</br>
+
 
 Thank you for your interest in contributing to our project! We appreciate any contributions, whether it's bug fixes, new features, or documentation improvements.
 
@@ -60,6 +62,7 @@ We value the time and effort you put into contributing, and we look forward to r
 ## 🎉 Special Announcement
 
 We intend to express our gratitude by presenting a modest token of appreciation to the top three contributors of our project.
+
 
 ## ©️ License
 
