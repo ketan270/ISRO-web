@@ -80,8 +80,7 @@ We value the time and effort you put into contributing, and we look forward to r
 
 `Primary Owner`-: </br> </br>   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Ketan+Sharma" alt="Typing SVG" /></a> </br>
 `Secondary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Khushi" alt="Typing SVG" /></a>  </br> 
-`Teritary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Keshav+Bareja" alt="Typing SVG" /></a> </br>
-
+`Teritary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Keshav+Bareja" alt="Typing SVG" /></a> 
 ## 🎉 Special Announcement
 
 We intend to express our gratitude by presenting a modest token of appreciation to the top three contributors of our project.
