@@ -23,13 +23,23 @@ My project, ISRO-web, draws inspiration from the design and user experience of S
 
 ![869shots_so](https://github.com/dakshsinghrathore/ISRO-web/assets/115932772/3c161c86-8bff-45f3-86f0-ecba595a8165)
 
-## 💻 Tech Stack
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🚀 [Quick start](#quick-start)
+4. 📛 [Badges](#badges)
+5. 🤝 [Our Contributors](#contributors)
+6. 🔑 [OWNERS](#owners)
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) - HTML is the standard markup language for Web pages
 - [JavaScript](https://tc39.es/) - JS is an Open source runtime environment, built on the Chrome browser's V8 engine
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS describes how HTML elements should be displayed
 
-## 🚀 Quick start
+## <a name="quick-start">🚀 Quick start</a> 
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an [issue](https://github.com/dakshsinghrathore/ISRO-web/issues/new) or submit a pull request. Make sure to follow the project's code of conduct.
 
@@ -40,7 +50,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 - Go through the [CONTRIBUTING.md](https://github.com/dakshsinghrathore/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
 - Do check out the [project issue tracker](https://github.com/priyankarpal/ProjectsHut/issues) section.
 
-## 📛 Badges:
+##  <a name="badges">📛 Badges</a>  
       
 <p align="center">
   
@@ -61,7 +71,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 <br/>
 </p>
 
-## 🤝 Our Contributors
+##  <a name="contributors">🤝 Our Contributors</a>  
 
 
 
@@ -76,7 +86,7 @@ Thank you for your interest in contributing to our project! We appreciate any co
 
 We value the time and effort you put into contributing, and we look forward to reviewing and merging your contributions. Join us on this exciting journey of creativity and collaboration, and let your contributions shine on ISRO-Web!
 
-## 🔑 OWNERS
+## <a name="owners">🔑 OWNERS</a> 
 
 `Primary Owner`-: </br> </br>   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Ketan+Sharma" alt="Typing SVG" /></a> </br>
 `Secondary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Khushi" alt="Typing SVG" /></a>  </br> 
