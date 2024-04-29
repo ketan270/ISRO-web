@@ -25,3 +25,14 @@
 .incorrect{
     background: #ff9393;
 }  
+
+ #quiz {
+    height: 80vh;
+    padding: 20px; 
+  }
+  
+  .card-body {
+    max-height:520px; 
+     overflow-y: auto;
+   } 
+
