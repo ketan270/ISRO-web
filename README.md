@@ -31,6 +31,8 @@ My project, ISRO-web, draws inspiration from the design and user experience of S
 4. 📛 [Badges](#badges)
 5. 🤝 [Our Contributors](#contributors)
 6. 🔑 [OWNERS](#owners)
+7. 🎉 [Special Announcement](#announcement)
+8. ©️  [License](#Licence)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -91,11 +93,11 @@ We value the time and effort you put into contributing, and we look forward to r
 `Primary Owner`-: </br> </br>   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Ketan+Sharma" alt="Typing SVG" /></a> </br>
 `Secondary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Khushi" alt="Typing SVG" /></a>  </br> 
 `Teritary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Keshav+Bareja" alt="Typing SVG" /></a> 
-## 🎉 Special Announcement
+##  <a name="announcement">🎉 Special Announcement</a> 
 
 We intend to express our gratitude by presenting a modest token of appreciation to the top three contributors of our project.
 
 
-## ©️ License
+## <a name="License">©️ License</a>
 
 The project is licensed under the [MIT License](https://github.com/dakshsinghrathore/ISRO-web?tab=MIT-1-ov-file#readme).
