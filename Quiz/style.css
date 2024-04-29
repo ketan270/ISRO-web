@@ -27,12 +27,12 @@
 }  
 
  #quiz {
-    height: 80vh;
-    padding: 20px; 
+    height: 40vh;
+    padding: 10px; 
   }
   
   .card-body {
-    max-height:400px; 
+    max-height:300px; 
      overflow-y: auto;
    } 
 
