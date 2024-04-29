@@ -1,22 +1,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=43&pause=1000&random=false&width=950&height=80&lines=Indian+Space+Research+Organisation+%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80" alt="Typing SVG" /></a>
-<h1>
- Welcome 👋
-  </h1>
-  
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dakshsinghrathore%2FISRO-web%20&countColor=%23263759&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Ketan2120/ISRO-web)
-![GitHub Repo stars](https://img.shields.io/github/stars/Ketan2120/ISRO-web)
-![GitHub contributors](https://img.shields.io/github/contributors/Ketan2120/ISRO-web)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ketan2120/ISRO-web)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ketan2120/ISRO-web)
+![GitHub Repo stars](https://img.shields.io/github/stars/ketan270/ISRO-web)
+![GitHub contributors](https://img.shields.io/github/contributors/ketan270/ISRO-web)
+![GitHub last commit](https://img.shields.io/github/last-commit/ketan270/ISRO-web)
+![GitHub repo size](https://img.shields.io/github/repo-size/ketan270/ISRO-web)
 
 ![Github](https://img.shields.io/github/license/dakshsinghrathore/ISRO-web)
 ![GitHub issues](https://img.shields.io/github/issues/dakshsinghrathore/ISRO-web)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dakshsinghrathore/ISRO-web)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dakshsinghrathore/ISRO-web)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dakshsinghrathore/ISRO-web)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ketan270/ISRO-web)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ketan270/ISRO-web)
 
 <p>
 My project, ISRO-web, draws inspiration from the design and user experience of SpaceX's official website. This endeavor reflects my aspiration to bring a similar level of user engagement and innovation to ISRO's online presence. By adapting the aesthetic and functionality of SpaceX's website, my efforts are focused on enhancing ISRO's digital platform to better showcase its achievements, missions, and contributions to space exploration
