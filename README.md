@@ -48,7 +48,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 <div>
   <a href="https://github.com/dakshsinghrathore/ISRO-web/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=dakshsinghrathore/ISRO-web" />
+    <img src="https://contrib.rocks/image?repo=ketan270/ISRO-web" />
   </a>
 </div>
 
@@ -64,5 +64,3 @@ We intend to express our gratitude by presenting a modest token of appreciation 
 ## ©️ License
 
 The project is licensed under the [MIT License](https://github.com/dakshsinghrathore/ISRO-web?tab=MIT-1-ov-file#readme).
-
-.
