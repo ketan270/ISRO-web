@@ -76,7 +76,7 @@ Thank you for your interest in contributing to our project! We appreciate any co
 
 We value the time and effort you put into contributing, and we look forward to reviewing and merging your contributions. Join us on this exciting journey of creativity and collaboration, and let your contributions shine on ISRO-Web!
 
-## 🔑 OWNER 
+## 🔑 OWNERS
 
 `Primary Owner`-: </br> </br>   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Ketan+Sharma" alt="Typing SVG" /></a> </br>
 `Secondary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&random=false&width=500&height=51&lines=Khushi" alt="Typing SVG" /></a>  </br> 
