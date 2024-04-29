@@ -32,7 +32,7 @@
   }
   
   .card-body {
-    max-height:520px; 
+    max-height:400px; 
      overflow-y: auto;
    } 
 
