@@ -51,7 +51,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
     <img src="https://contrib.rocks/image?repo=ketan270/ISRO-web" />
   </a>
 </div>
-
+</br>
 
 Thank you for your interest in contributing to our project! We appreciate any contributions, whether it's bug fixes, new features, or documentation improvements.
 
