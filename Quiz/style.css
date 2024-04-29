@@ -13,7 +13,6 @@
 .btn1:hover:not([disabled]){
     background: #222;
     color: #fff;
-     scroll-behavior: smooth;
 
 }
 .btn1:disabled{
