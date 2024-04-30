@@ -10,7 +10,7 @@
 
 ![Github](https://img.shields.io/github/license/dakshsinghrathore/ISRO-web)
 ![GitHub issues](https://img.shields.io/github/issues/dakshsinghrathore/ISRO-web)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dakshsinghrathore/ISRO-web)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ketan270/ISRO-web)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ketan270/ISRO-web)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ketan270/ISRO-web)
 
