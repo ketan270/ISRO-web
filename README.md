@@ -38,7 +38,7 @@ My project, ISRO-web, draws inspiration from the design and user experience of S
 5. 🤝 [Our Contributors](#contributors)
 6. 🔑 [OWNERS](#owners)
 7. 🎉 [Special Announcement](#announcement)
-8. ©️  [License](#License)
+8. ©️   [License](#License)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
