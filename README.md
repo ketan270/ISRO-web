@@ -15,7 +15,13 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ketan270/ISRO-web)
 
 <p> <a name="introduction"></a> 
-My project, ISRO-web, is inspired by the design and user experience of SpaceX's official website. This initiative embodies my ambition to bring a comparable level of user engagement and innovation to ISRO's online presence. By incorporating the aesthetic and functionality of SpaceX's website, my goal is to enhance ISRO's digital platform, showcasing its achievements, missions, and contributions to space exploration more effectively.
+<div align="center">
+
+</div>
+
+My project, **ISRO-web**, is inspired by the design and user experience of `SpaceX's` official website. This initiative embodies my ambition to bring a comparable level of user engagement and innovation to ISRO's online presence. By incorporating the `aesthetic` and `functionality` of SpaceX's website, my goal is to enhance ISRO's digital platform, showcasing its `achievements`, `missions`, and `contributions` to space exploration more effectively.
+
+
 
 > Live 🔗 https://isro-web.netlify.app/
 
