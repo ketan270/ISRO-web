@@ -22,10 +22,15 @@ My project, ISRO-web, is inspired by the design and user experience of SpaceX's 
 </p>
 
 | Image 1 | Image 2 |
-|---------|---------|
+|:-------:|:-------:|
 | ![Image 1](https://github.com/ketan270/ISRO-web/assets/146920220/22e1f8d2-c9d7-4bc8-b5d3-bf3236fb70af) | ![Image 2](https://github.com/ketan270/ISRO-web/assets/146920220/6345a9f1-ea86-4553-8670-f72e5b3190bf) |
-| Image 3 | Image 4 |
-| ![Image 3](https://github.com/ketan270/ISRO-web/assets/146920220/f755dfd6-3d77-4bb8-8ffc-4775db4ec543) | ![Image 4](https://github.com/ketan270/ISRO-web/assets/146920220/5625f4b0-f9ac-4991-911f-bd4b436a4376) |
+| <p align="center">Image 3</p> | <p align="center">Image 4</p> |
+| ![Image 3](https://github.com/ketan270/ISRO-web/assets/146920220/f755dfd6-3d77-4bb8-8ffc-4775db4ec543) | ![Image 4](https://github.com/ketan270/ISRO-web/assets/146920220/76001856-cb4c-478e-9c78-7320894a58c0) |
+| <p align="center">Image 5</p> | <p align="center">Image 6</p> |
+| ![Image 5](https://github.com/ketan270/ISRO-web/assets/146920220/d2d64fc2-9823-4f04-b35d-16080fc538eb) | ![Image 6](https://github.com/ketan270/ISRO-web/assets/146920220/acd88b05-1ad9-483c-90c2-00beb926a60a) |
+| <p align="center">Image 7</p> | <p align="center">Image 8</p> |
+| ![Image 7](https://github.com/ketan270/ISRO-web/assets/146920220/0e77ef5a-6a34-425e-a4df-b544b95a10b9) | ![Image 8](https://github.com/ketan270/ISRO-web/assets/146920220/5625f4b0-f9ac-4991-911f-bd4b436a4376) |
+
 
  <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
