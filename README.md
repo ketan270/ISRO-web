@@ -21,7 +21,12 @@ My project, ISRO-web, is inspired by the design and user experience of SpaceX's 
 
 </p>
 
-![869shots_so](https://github.com/dakshsinghrathore/ISRO-web/assets/115932772/3c161c86-8bff-45f3-86f0-ecba595a8165)
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Image 1](https://github.com/ketan270/ISRO-web/assets/146920220/22e1f8d2-c9d7-4bc8-b5d3-bf3236fb70af) | ![Image 2](https://github.com/ketan270/ISRO-web/assets/146920220/6345a9f1-ea86-4553-8670-f72e5b3190bf) |
+| Image 3 | Image 4 |
+| ![Image 3](https://github.com/ketan270/ISRO-web/assets/146920220/f755dfd6-3d77-4bb8-8ffc-4775db4ec543) | ![Image 4](https://github.com/ketan270/ISRO-web/assets/146920220/5625f4b0-f9ac-4991-911f-bd4b436a4376) |
+
  <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
