@@ -52,9 +52,10 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 3. 🚀 [Quick start](#quick-start)
 4. 📛 [Badges](#badges)
 5. 🤝 [Our Contributors](#contributors)
-6. 🔑 [OWNERS](#owners)
-7. 🎉 [Special Announcement](#announcement)
-8. ©️   [License](#License)
+6. 🛠️ [VERSIONS](#version)
+7. 🔑 [OWNERS](#owners)
+8. 🎉 [Special Announcement](#announcement)
+9. ©️   [License](#License)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -105,7 +106,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
   </a>
 </div>
 
-# <a href="" target="_blank">VERSION 1</a>
+# <a name="version" href="" target="_blank">VERSION 1</a>
 
 <div align="left">
 
