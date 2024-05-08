@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../CSS/style.css" />
+    <link rel="icon" type="icon" href="../images/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+    <title>About Us</title>
+    <style>
+      .card {
+        display: flex;
+        justify-content: center;
+
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        position: relative;
+      }
+      .stats1 {
+        max-width: 960px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      /* Style for the image on the left */
+      .card img {
+        max-width: 500px; /* Adjust the maximum width of the image as needed */
+        height: auto;
+        margin-right: 10px;
+      }
+
+      /* Style for the text on the right */
+      .card .card-text {
+        flex-grow: 1;
+        justify-content: center;
+      }
+      .jobtitle {
+        margin-bottom: 2rem;
+      }
+      .job {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+      }
+      .card .learn-more-button {
+        /* Align the button to the bottom of the card */
+        padding: 10px 20px;
+        position: absolute;
+        bottom: 0;
+        background-color: #007bff; /* Button background color */
+        color: #fff; /* Button text color */
+        border: none;
+        border-radius: 5px;
+
+        cursor: pointer;
+        margin-bottom: 1rem;
+      }
+      .button_div {
+        margin-right: 6rem;
+      }
+      .card .learn-more-button:hover {
+        background-color: #659bd5;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="main-header">
+      <div class="logo">
+        <a href="../">
+          <img src="../images/logo.png" alt="ISRO" />
+        </a>
+      </div>
+      <nav class="desktop-main-menu">
+        <ul>
+          <li><a href="../PSLV">Polar Satellite LV</a></li>
+          <li><a href="../GSLV">Geo Satellite LV</a></li>
+          <li><a href="../LVM3">Geo Satellite M3</a></li>
+          <li>
+            <a href="../Communication-Satelites/">Communication Satellites</a>
+          </li>
+          <li><a href="../Foreign/">Foreign Satellites</a></li>
+        </ul>
+      </nav>
+      <div class="menu-content">
+        <div id="menu-navigation">
+          <ul class="nav-link">
+            <li class="nav-item primary">
+              <a href="../Mission.html">Mission</a>
+            </li>
+            <li class="nav-item primary">
+              <a href="../index.html">Launches</a>
+            </li>
+            <li class="nav-item primary"><a href="../Careers">Careers</a></li>
+            <li class="nav-item primary"><a href="../Updates">Updates</a></li>
+            <li class="nav-item primary"><a href="../Quiz/">Quiz</a></li>
+            <li class="nav-item primary">
+              <a href="../Image_Gallery/index.html">Images</a>
+            </li>
+            <li class="nav-item primary"><a href="/Feedback/">Feedback</a></li>
+          </ul>
+        </div>
+      </div>
+      <button id="menu" onclick="myFunction(this)">
+        <div id="bar">
+          <div id="bar1" class="bar"></div>
+          <div id="bar2" class="bar"></div>
+          <div id="bar3" class="bar"></div>
+        </div>
+      </button>
+    </header>
+
+    <section class="section-animate bg-hiring"></section>
+    <section class="section-animate bg-spacex"></section>
+    <div class="section-inner-center">
+      <h3>ABOUT US</h3>
+      <p>
+        This website aims to adapt SpaceX's official website by incorporating
+        ISRO's content, offering a unique fusion of both organizations.
+      </p>
+    </div>
+    <div class="job">
+      <h1>ISRO-Web 🧑🏽‍🚀</h1>
+    </div>
+    <!-- job 1 -->
+    <div class="stats1">
+      <div class="card">
+        <img src="../images/about us.jpg" alt="Image" />
+        <div class="card-text">
+          <h2 class="jobtitle">Welcome 👋</h2>
+          <p>
+            My project, ISRO-web, draws inspiration from the design and user
+            experience of SpaceX's official website. This endeavor reflects my
+            aspiration to bring a similar level of user engagement and
+            innovation to ISRO's online presence. By adapting the aesthetic and
+            functionality of SpaceX's website, my efforts are focused on
+            enhancing ISRO's digital platform to better showcase its
+            achievements, missions, and contributions to space exploration
+            <br />
+            <br />
+            💻 Tech Stack
+            <br />
+            HTML5 - HTML is the standard markup language for Web pages <br />
+            JavaScript - JS is an Open source runtime environment, built on the
+            Chrome browser's V8 engine <br />
+            CSS - CSS describes how HTML elements should be displayed
+          </p>
+
+          <!-- <a class="learn-more-button" href="#">Read More</a> -->
+          <div class="button_div">
+            <a href="https://github.com/dakshsinghrathore/ISRO-web"
+              ><button class="learn-more-button">Learn More</button></a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <ul>
+        <!-- <li><b>ISRO &copy; 2023</b></li> -->
+        <li>
+          <a href="https://twitter.com/isro" target="_blank"
+            ><i class="fa-brands fa-x-twitter"></i> Twitter</a
+          >
+        </li>
+        <li>
+          <a href="https://www.youtube.com/@isroofficial5866" target="_blank"
+            ><i class="fa-brands fa-youtube"></i> YouTube</a
+          >
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/isro/" target="_blank"
+            ><i class="fa-brands fa-linkedin"></i> LinkedIn</a
+          >
+        </li>
+        <li>
+          <a href="https://www.facebook.com/ISRO" target="_blank">
+            <i class="fa-brands fa-facebook"></i> FaceBook
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/isro.dos/" target="_blank">
+            <i class="fa-brands fa-instagram"></i> Instagram
+          </a>
+        </li>
+        <li>
+          <a href="./Privacy/"><i class="fa-solid fa-lock"></i> Privacy</a>
+        </li>
+        <li>
+          <a href="#"><i class="fa-solid fa-truck-field"></i> Suppliers</a>
+        </li>
+        <li>
+          <a href="#"><i class="fa-solid fa-envelope"></i> Contact Us</a>
+        </li>
+      </ul>
+      <p class="copywrite"><b>ISRO &copy; 2023</b></p>
+    </footer>
+    
+    <script src="../JS/script.js"></script>
+  </body>
+</html>
