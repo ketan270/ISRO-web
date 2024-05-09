@@ -57,7 +57,6 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 8. 🎉 [Special Announcement](#announcement)
 9. 📜 [License](#License)
 
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) - HTML is the standard markup language for Web pages
