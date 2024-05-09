@@ -22,7 +22,6 @@
 My project, **ISRO-web**, is inspired by the design and user experience of `SpaceX's` official website. This initiative embodies my ambition to bring a comparable level of user engagement and innovation to ISRO's online presence. By incorporating the `aesthetic` and `functionality` of SpaceX's website, my goal is to enhance ISRO's digital platform, showcasing its `achievements`, `missions`, and `contributions` to space exploration more effectively.
 
 
-
 > Live 🔗 https://isro-website1.netlify.app/
 
 </p>
