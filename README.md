@@ -23,7 +23,7 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 
 
 
-> Live 🔗 https://isro-web.netlify.app/
+> Live 🔗 https://isro-website1.netlify.app/
 
 </p>
 
