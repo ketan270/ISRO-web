@@ -54,7 +54,7 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 5. 🤝 [Our Contributors](#contributors)
 6. 🔑 [OWNERS](#owners)
 7. 🎉 [Special Announcement](#announcement)
-8. ©️   [License](#License)
+8. 📜 [License](#License)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
