@@ -66,13 +66,13 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 
 ## <a name="quick-start">🚀 Quick start</a> 
 
-Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an [issue](https://github.com/dakshsinghrathore/ISRO-web/issues/new) or submit a pull request. Make sure to follow the project's code of conduct.
+Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an [issue](https://github.com/ketan270/ISRO-web/issues/new) or submit a pull request. Make sure to follow the project's code of conduct.
 
 > **Note**: If you are new to open source contributions, you can refer to [this](https://opensource.guide/how-to-contribute/) guide by GitHub.
 
 > **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [code of conduct](/CODE_OF_CONDUCT.md).
 
-- Go through the [CONTRIBUTING.md](https://github.com/dakshsinghrathore/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
+- Go through the [CONTRIBUTING.md](https://github.com/ketan270/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
 - Do check out the [project issue tracker](https://github.com/priyankarpal/ProjectsHut/issues) section.
 
 ##  <a name="badges">📛 Badges</a>  
