@@ -73,7 +73,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 > **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [code of conduct](/CODE_OF_CONDUCT.md).
 
 - Go through the [CONTRIBUTING.md](https://github.com/ketan270/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
-- Do check out the [project issue tracker](https://github.com/priyankarpal/ProjectsHut/issues) section.
+- Do check out the [project issue tracker](https://github.com/ketan270/ProjectsHut/issues) section.
 
 ##  <a name="badges">📛 Badges</a>  
       
